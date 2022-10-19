@@ -1,7 +1,7 @@
 # Test-Assignment-TestVagrant
 Movie Information Validation program to extract Country and Release date of a movie.
 The sources of extraction are [IMDB](https://www.imdb.com/) and [Wikipedia](https://en.wikipedia.org/)
-##Technologies Used:
+## Technologies Used:
 __**Java, Selenium**__ and __**TestNG**__
 ## Development Platform:
 Eclipse IDE
