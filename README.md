@@ -28,5 +28,5 @@ The project is based on Java and Selenium. TestNG is used to verify the extracte
 - Further the code used to develop the project is modularized and commented wherever neccessary for better understanding.
 - The project is developed to execute on Chrome using chrome driver, but could be enhanced to support any required browser if needed.
 
-##Enhancements
+## Enhancements
 - The project could be improvised in terms of logging messages
