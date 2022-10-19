@@ -30,3 +30,4 @@ The project is based on Java and Selenium. TestNG is used to verify the extracte
 
 ## Enhancements
 - The project could be improvised in terms of logging messages
+-  As I was facing some issues with maven in my local, so couldn't build the project so as to run using maven using command line. It would have been better if the project was to implement these features as well.
