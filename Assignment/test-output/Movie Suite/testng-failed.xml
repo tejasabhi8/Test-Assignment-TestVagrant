@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="1" parallel="tests" name="Failed suite [Movie Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="1" parallel="tests" name="IMDB(failed)">
+    <classes>
+      <class name="baseclass.Imdb">
+        <methods>
+          <include name="loadImdbUrl"/>
+          <include name="extractReleaseDateforImdb"/>
+          <include name="tearDown"/>
+          <include name="extractCountryforImdb"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- baseclass.Imdb -->
+    </classes>
+  </test> <!-- IMDB(failed) -->
+  <test thread-count="1" parallel="tests" name="WIKI(failed)">
+    <classes>
+      <class name="baseclass.Wiki">
+        <methods>
+          <include name="extractCountryforWiki"/>
+          <include name="extractReleaseDateforWiki"/>
+          <include name="tearDown"/>
+          <include name="loadWikiUrl"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- baseclass.Wiki -->
+    </classes>
+  </test> <!-- WIKI(failed) -->
+</suite> <!-- Failed suite [Movie Suite] -->

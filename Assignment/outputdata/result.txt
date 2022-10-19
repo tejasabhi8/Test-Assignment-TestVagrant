@@ -1,0 +1,22 @@
+MOVIE NAME - K.G.F: Chapter 1
+--------------------------------------*************************---------------------------------------------
+Country Name Extracted from Wikipedia for movie K.G.F: Chapter 1 is :---> India
+Country Name Extracted from IMDB for movie K.G.F: Chapter 1 is :---> India
+--------------------------------------*************************---------------------------------------------
+Release Date Extracted from Wikipedia for movie K.G.F: Chapter 1 is :---> 20 December 2018 (United States & Canada)
+Release Date Extracted from IMDB for movie K.G.F: Chapter 1 is :---> December 20, 2018 (United States)
+--------------------------------------*************************---------------------------------------------
+Release date in Wikipedia after formatting: ----> 20-12-2018
+Release date in IMDB after formatting: ----> 20-12-2018
+--------------------------------------*************************---------------------------------------------
+MOVIE NAME - Pushpa: The Rise - Part 1
+--------------------------------------*************************---------------------------------------------
+Country Name Extracted from Wikipedia for movie Pushpa: The Rise - Part 1 is :---> India
+Country Name Extracted from IMDB for movie Pushpa: The Rise - Part 1 is :---> India
+--------------------------------------*************************---------------------------------------------
+Release Date Extracted from Wikipedia for movie Pushpa: The Rise - Part 1 is :---> 17 December 2021
+Release Date Extracted from IMDB for movie Pushpa: The Rise - Part 1 is :---> December 17, 2021 (United States)
+--------------------------------------*************************---------------------------------------------
+Release date in Wikipedia after formatting: ----> 17-12-2021
+Release date in IMDB after formatting: ----> 17-12-2021
+--------------------------------------*************************---------------------------------------------
